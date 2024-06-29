@@ -21,6 +21,22 @@
 1. **Клонируйте репозиторий**:
 
    ```bash
-   git clone https://github.com/yourusername/user-search-app.git
-   cd user-search-app
+   git clone https://github.com/teomayy/test-app.git
+   cd test-app
    ```
+
+## Запуск
+
+1. **Запуск сервер**:
+
+```bash
+   cd backend
+   npm run dev
+```
+
+2. **Запуск фронтенд**
+
+```bash
+   cd frontend
+   npm start
+```
